@@ -1,0 +1,19 @@
+.window{
+    width: 2300px;
+    height: 1000px;
+    background: rgb(0, 178, 178);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.function{
+    width: 700px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    margin: 35px;
+}
+.f_text{
+    color: rgb(213, 103, 17);
+}

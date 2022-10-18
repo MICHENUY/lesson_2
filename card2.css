@@ -1,0 +1,35 @@
+.head{
+    text-align: center;
+}
+
+.services{
+    width: 2300px;
+    height: 800px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.serv{
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    border-right: 5px solid rgb(59, 57, 57);
+    border-bottom: 2px solid rgb(59, 57, 57) ;
+    border-top:1px solid rgb(59, 57, 57);
+    border-left:1px solid rgb(59, 57, 57);
+    box-sizing: border-box;
+    margin: 25px;
+}
+.color{
+    color: rgb(213, 103, 17);
+}
+.more{
+    width: 90px;
+    height: 25px;
+    background: rgb(94, 231, 13);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 200px;
+
+}
